@@ -1,0 +1,1 @@
+<h1>Your Security Code is {{$data['code']}}</h1>
